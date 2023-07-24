@@ -33,15 +33,15 @@
 ## 데이터 설명
 - 수집 및 모델에 사용한 데이터: AI-Hub 사이트 제공(약 16,000개)
 
-- 학습 데이터: 10,500개
-- 검증 데이터: 2,500개
-- 테스트 데이터: 3,000개
+- 학습/검증/테스트 데이터: 10,500/2,500/3,000개
 - 데이터 용량: 약 13GB
 - 원본 이미지
+<p align="center">
 <img width="490" alt="image" src="https://github.com/Hyeonseung0103/Mobility_Project/assets/97672187/1dd134ee-e6cc-4250-999d-5a82b637501c">
 
 - 라벨 이미지
-<img width="500" alt="image" src="https://github.com/Hyeonseung0103/Mobility_Project/assets/97672187/a56aaeff-f075-4b1d-862e-ea8b4de95e21">
+<p align="center">
+<img width="510" alt="image" src="https://github.com/Hyeonseung0103/Mobility_Project/assets/97672187/a56aaeff-f075-4b1d-862e-ea8b4de95e21">
 
 
 ## 모델링
