@@ -4,7 +4,7 @@
 
 [프로젝트 내용 설명 영상](https://drive.google.com/file/d/1mDt51ca6Zd5PS2JLJXFw_QcU8b4RV_Om/view?usp=sharing)
 
-## ## 프로젝트 개요 및 필요성
+## 프로젝트 개요 및 필요성
 - 오늘날 많은 사람들이 카카오 바이크, 지쿠터와 같은 개인형 이동수단을 이용하는만큼 발생하는 교통사고 건수도 해마다 증가하고 있는 추세다. 아래 그래프를 보면 알 수 있듯이 2021년에는 2017년에 보다 약 15배 이상이 되는 개인형이동수단 교통사고 건수를 기록하고 있다. 
 
 <br><br><br>
@@ -37,9 +37,10 @@
 - 검증 데이터: 2,500개
 - 테스트 데이터: 3,000개
 - 데이터 용량: 약 13GB
-- 원본 이미지/라벨 이미지
-
+- 원본 이미지
 <img width="490" alt="image" src="https://github.com/Hyeonseung0103/Mobility_Project/assets/97672187/1dd134ee-e6cc-4250-999d-5a82b637501c">
+
+- 라벨 이미지
 <img width="500" alt="image" src="https://github.com/Hyeonseung0103/Mobility_Project/assets/97672187/a56aaeff-f075-4b1d-862e-ea8b4de95e21">
 
 
