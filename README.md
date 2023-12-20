@@ -93,7 +93,7 @@
 영상에 대한 설명이 필요하다면 **프로젝트 개요 및 필요성** 파트 위의 **프로젝트 내용 설명 영상** 링크의 후반부 내용을 참고해주세요.
 <br>
 <br>
-[시연 영상 링크](https://drive.google.com/file/d/1fSza0SFcx8Tav1QVorn0UvW4LX-6MKiO/view?usp=sharing)(소리 없음)
+[시연 영상 링크](https://drive.google.com/file/d/1fSza0SFcx8Tav1QVorn0UvW4LX-6MKiO/view?usp=sharing)(설명은 위의 프로젝트 내용 설명 영상에서 참고)
 <br>
 <br>
 [개인형 이동수단 교통법 위반 유형 탐지 서비스 페이지로 이동하기](http://130.162.147.76:5000/main)
